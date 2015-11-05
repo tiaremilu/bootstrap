@@ -1,0 +1,322 @@
+.sitio{
+	margin: 0 auto;
+	font-size: 40px;
+}
+
+.noti{
+	text-align: right;
+    display: inline-block;
+    font-size: 20px;
+    padding-top: 19px;
+    margin: 1px 8px;
+}
+
+.glyphicon{
+	margin-top: 40px;
+    font-size: 16px;
+}
+
+.text{
+	margin-top: 33px;
+	margin-left: -78px;
+}
+
+nav ul{
+	list-style-type: none;
+	margin: 31px -473px -5px 0;
+}
+
+nav li{
+	position: relative;
+	float: left;
+	padding: 1px;
+	text-transform: capitalize;
+	
+}
+ul.menu li {
+	height: 20px;
+	padding bottom: 1px;
+	padding-left: 1px;
+	padding-right: 1px;
+	margin-left: 56px;
+}
+
+
+ul.menu li:hover{
+	background-color: white;
+	cursor: pointer;
+}
+
+
+.fondo{
+	background-color: #A2A2A2;
+}
+
+.histo{
+	position: relative;
+	background-color: #848484;
+	color: white;
+    width: 210px;
+    padding-left: 9px;
+    height: 30px;
+    left: 2px;
+}
+
+h2{
+	font-size: 22px;
+}
+
+
+.deposito{
+	width: 27%;
+    height: 43px;
+    background-color: gray;
+    margin-bottom: 30px;
+}
+
+.art{
+	color: black;
+    font-size: 16px;
+	margin-left: -4px;
+}
+.publi{
+	color: gray;
+    margin-left: 68px;
+    margin-top: -27px;
+    font-size: 15px;
+}
+
+h3{
+	color: black;
+	margin-top: 12px;
+}
+
+p{
+	text-align: justify;
+}
+
+.ico{
+	margin-top: 10px;
+}
+
+.longitud{
+	margin-left: 5%;
+}
+.raya{
+	border: 1px solid gray;
+    margin-top: 43px;
+}
+
+.deposito2{
+	background-color: black;
+    width: 180px;
+    height: 36px;
+    margin-top: 20px;
+}
+.web{
+	color: white;
+    text-align: center;
+    padding: 7px;
+    font-size: 22px;
+}
+
+.pre{
+	margin-left: 200px;
+    margin-top: -17px;
+    font-size: 18px;
+}
+.borde{
+	text-decoration: underline;
+}
+.publis{
+	margin-left: 300px;
+    margin-top: -24px;
+    font-size: 15px;
+}
+.sub{
+	margin-top: 24px;
+}
+.tam{
+	margin-top: 20px;
+}
+.raya1{
+	border: 1px solid gray;
+    margin-top: 50px;
+}
+h4{
+	color: black;
+    font-size: 17px;
+    /* padding: 6px; */
+    /* margin-left: 10px; */
+    display: inline-block;
+}
+.color{
+	color: gray;
+    font-size: 15px;
+}
+h5{
+	color: black;
+    font-size: 20px;
+}
+
+.foto{
+	color: black;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 130px;
+}
+
+.deposito3{
+	width: 100%;
+    height: 300px;
+    background-color: gray;
+    margin-bottom: 30px;
+}
+.lorem{
+	font-size: 17px;
+    color: gray;
+}
+.raya2{
+	border: 1px solid gray;
+    margin-top: 50px;
+}
+.subs{
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+.ipsum{
+	color: gray;
+    font-size: 17px;
+}
+.cajas{
+	background-color: rgba(128, 128, 128, 0.32);
+    width: 100%;
+    height: 555px;
+}
+.caja1{
+	background-color: gray;
+    width: 300px;
+    height: 37px;
+    margin-left: 16px;
+}
+.hist{
+	font-size: 20px;
+    padding-top: 8px;
+}
+.caja2{
+	background-color: white;
+    width: 97%;
+    height: 300px;
+    margin-left: 17px;
+    border: 1px solid;
+    margin-top: 12px;
+}
+h6{
+	font-size: 18px;
+    margin-left: 20px;
+}
+.informacion{
+	color: gray;
+    font-size: 16px;
+    margin-left: 17px;
+    margin-right: 17px;
+}
+.debajo{
+	margin-top: 50px;
+    color: gray;
+    font-size: 15px;
+    margin-left: 35px;
+    display: inline-block;
+}
+.distancia{
+	margin-left: 70%;
+}
+.agenda{
+	background-color: rgba(128, 128, 128, 0.83);
+    width: 220px;
+    height: 36px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.cuadrado{
+	background-color: rgba(128, 128, 128, 0.85);
+    width: 110px;
+    height: 110px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin: 20px;
+}
+.numero{
+	text-align: center;
+	padding-top: 20px;
+}
+.mes{
+	text-align: center;
+    margin-top: 20px;
+}
+.titulo{
+	margin-left: 160px;
+    margin-top: -90px;
+}
+.parrafo{
+	margin-left: 160px;
+    font-size: 15px;
+    color: gray;
+    margin-top: -10px;
+}
+.fecha{
+	margin-left: 160px;
+    margin-top: -6px;
+    font-size: 16px;
+    color: gray;
+}
+.raya3{
+	border: 1px solid gray;
+    margin-top: 50px;
+}
+.info{
+	font-size: 23px;
+    color: black;
+    margin-top: 25px;
+}
+.lugar{
+	color: gray;
+    text-decoration: underline;
+    margin-left: -1px;
+    margin-top: 6px;
+    font-size: 20px;
+}
+.title{
+	margin-top: 11px;
+    font-size: 18px;
+    margin-left: -1px;
+}
+.verso{
+	color: gray;
+    margin-top: -9px;
+    margin-left: -1px;
+}
+.raya4{
+	border: 3px solid gray;
+    margin-top: 50px;
+}
+.indice{
+	color: black;
+    display: block;
+    font-size: 23px;
+    margin-top: 20px;
+}
+.ultimo{
+	display: block;
+	font-size: 20px;
+	margin-top: 15px;
+}
+.interesante{
+	display: block;
+    margin-left: 30px;
+    margin-top: -15px;
+    color: black;
+}
+.margen{
+	padding-bottom: 40px;
+}
